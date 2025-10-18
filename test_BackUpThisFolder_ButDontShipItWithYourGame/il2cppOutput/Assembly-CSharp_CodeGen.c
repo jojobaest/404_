@@ -1,0 +1,87 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void PokerHandInfoUpdater_Start_m529FCA7A3F3D5C5431B79716DD7E1A7E3D964A1E (void);
+extern void PokerHandInfoUpdater_Update_m8A3C3ABFE4273EE678AA33E1EAC60E812B516C35 (void);
+extern void PokerHandInfoUpdater__ctor_m07E2150887B7E669B28677858E4489C29E5F25AD (void);
+extern void PokerOptimalMoveUpdater_Start_m407BCC926D95140CD56BAFCC15328E2743F78A13 (void);
+extern void PokerOptimalMoveUpdater_Update_m41EE226B6515DAECB675F34C787062B306AA1DA9 (void);
+extern void PokerOptimalMoveUpdater__ctor_m65308771C603799B689A36027CFF675B18D1F94F (void);
+extern void ProcessPokerDisplay__ctor_m6945FB2D6FEA03F8F5F58817156302571147D47D (void);
+extern void ProcessPokerDisplay_UpdatePlayerName_mF05D0C48D4E7A3AE245D023A47ADAF5616E1F8CB (void);
+extern void ProcessPokerDisplay_UpdatePlayerAvatar_mAECAC68C6594001B322EF86CB17594BC657CBA67 (void);
+extern void ProcessPokerDisplay_UpdatePlayerChips_m4DE5CB6688FF13868CDC03CD9753B131DA7BF74D (void);
+extern void ProcessPokerDisplay_UpdatePlayerBet_m1596627B4C93433EAAA27D109C7AD56BD0A65E39 (void);
+extern void SceneLoader_Load_m83DDB9410395E4EFA2F1815D9796719A20D41488 (void);
+extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	PokerHandInfoUpdater_Start_m529FCA7A3F3D5C5431B79716DD7E1A7E3D964A1E,
+	PokerHandInfoUpdater_Update_m8A3C3ABFE4273EE678AA33E1EAC60E812B516C35,
+	PokerHandInfoUpdater__ctor_m07E2150887B7E669B28677858E4489C29E5F25AD,
+	PokerOptimalMoveUpdater_Start_m407BCC926D95140CD56BAFCC15328E2743F78A13,
+	PokerOptimalMoveUpdater_Update_m41EE226B6515DAECB675F34C787062B306AA1DA9,
+	PokerOptimalMoveUpdater__ctor_m65308771C603799B689A36027CFF675B18D1F94F,
+	ProcessPokerDisplay__ctor_m6945FB2D6FEA03F8F5F58817156302571147D47D,
+	ProcessPokerDisplay_UpdatePlayerName_mF05D0C48D4E7A3AE245D023A47ADAF5616E1F8CB,
+	ProcessPokerDisplay_UpdatePlayerAvatar_mAECAC68C6594001B322EF86CB17594BC657CBA67,
+	ProcessPokerDisplay_UpdatePlayerChips_m4DE5CB6688FF13868CDC03CD9753B131DA7BF74D,
+	ProcessPokerDisplay_UpdatePlayerBet_m1596627B4C93433EAAA27D109C7AD56BD0A65E39,
+	SceneLoader_Load_m83DDB9410395E4EFA2F1815D9796719A20D41488,
+	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	21161,
+	21161,
+	21161,
+	21161,
+	21161,
+	21161,
+	16222,
+	16222,
+	16222,
+	16135,
+	16135,
+	21161,
+	21161,
+	21161,
+	21161,
+	34326,
+	21161,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
