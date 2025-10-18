@@ -1,0 +1,2 @@
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

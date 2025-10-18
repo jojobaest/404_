@@ -1,0 +1,10 @@
+# ninja log v5
+2	1889	1760809890473519855	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	102dc733c84599d2
+4	1895	1760809890473912607	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	47615db0bb823155
+1	1896	1760809890478449833	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8f44d4ce971e6558
+5	1914	1760809890500319131	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ae768746bade9a71
+2	1956	1760809890544265268	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	822ed0d204e79675
+7	2016	1760809890607115732	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a3d364086b7d89e5
+3	2114	1760809890705552216	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	14331362b1705076
+0	2192	1760809890783465492	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c2421141a39fd131
+2192	2548	1760809891138161269	/Users/dom05/Documents/AI @ Meta Hackathon/POKERPOKER/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/18205538/obj/arm64-v8a/libgame.so	1e353697bd3a04ef

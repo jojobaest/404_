@@ -1,0 +1,19 @@
+# ninja log v5
+1	4861	7793944771579357	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ef0cbaa6dc836904
+3645	6067	7793944801032949	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d28094bb96c66a4
+622	4878	7793944768551115	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	804ce977a4911422
+4235	6485	7793944805155808	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	431f017dda1df711
+1210	4881	7793944775581824	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	470513521a429293
+1815	4884	7793944780347161	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	538afc255a225d43
+2438	4888	7793944786571611	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	516d256f1e27c449
+6485	7758	7793944817891690	C:/open/fbsource/arvr/projects/mixedreality/unityapps/BlossomBuddy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s6k2z62/obj/arm64-v8a/libgame.so	ce78e31eac8fa656
+3053	5585	7793944796199209	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c7f338edecca54f0
+12	3656	7821482971483946	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ef0cbaa6dc836904
+464	3659	7821482968341245	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	470513521a429293
+918	3662	7821482967543102	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	516d256f1e27c449
+1367	3665	7821482972507622	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	804ce977a4911422
+1827	3790	7821482980105821	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d28094bb96c66a4
+2302	3948	7821482981685456	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	431f017dda1df711
+2755	4661	7821482988812361	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c7f338edecca54f0
+3205	4820	7821482990392795	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	538afc255a225d43
+4821	5833	7821483000556948	C:/open/fbsource/arvr/projects/mixedreality/unityapps/BlossomBuddy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s6k2z62/obj/arm64-v8a/libgame.so	ce78e31eac8fa656

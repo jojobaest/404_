@@ -1,0 +1,17 @@
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+C:\open\fbsource\arvr\projects\mixedreality\unityapps\BlossomBuddy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h
